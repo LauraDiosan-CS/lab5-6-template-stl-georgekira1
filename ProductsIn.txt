@@ -1,0 +1,4 @@
+1 twix 10
+2 guma 16
+3 suc 24
+4 milka 18
